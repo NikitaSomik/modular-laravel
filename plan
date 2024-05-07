@@ -1,0 +1,11 @@
+- Product module
+    - Product
+    - Cart Items
+- Order module
+    - Order
+    - Order Line
+- Payment module
+    - Payment processor
+- Shipment Module
+    - Shipment
+    - Processes
