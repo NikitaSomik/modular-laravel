@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Modules\Order\Providers;
+namespace Modules\Product\Providers;
 
-use Illuminate\Foundation\Support\Providers\RouteServiceProvider as BaseRouteServiceProvider;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Foundation\Support\Providers\RouteServiceProvider as BaseRouteServiceProvider;
 
 class RouteServiceProvider extends BaseRouteServiceProvider
 {
