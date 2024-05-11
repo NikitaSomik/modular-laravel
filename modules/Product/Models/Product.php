@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Modules\Product\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Modules\Product\Database\Factories\ProductFactory;
 
 class Product extends Model

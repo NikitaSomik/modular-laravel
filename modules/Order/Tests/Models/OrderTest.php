@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Modules\Order\Tests\Order\Models;
+namespace Modules\Order\Tests\Models;
 
 use Modules\Order\Models\Order;
 use Modules\Order\Tests\OrderTestCase;
